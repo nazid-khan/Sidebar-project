@@ -27,7 +27,7 @@ it's for everyone who need this "Responsive navbar" use it if you want .
   - ##### ( About = Go to about section or page via link) 
   - ##### ( Projects = Go to Projects page via link)
   - ##### ( Contact = Go to contact section or page via link)  
-- A close menu button ( icon ) 
+- A close menu button( icon ) 
  
 
 
