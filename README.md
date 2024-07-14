@@ -36,4 +36,4 @@ it's for everyone who need this "Responsive navbar" use it if you want .
 
 I Learned alot about logic building from this by using html ,css and javaScript.
 It helps to know how sidebar toggle use for hide and show menus
-The more I Learned things the more I know about it. 
+
